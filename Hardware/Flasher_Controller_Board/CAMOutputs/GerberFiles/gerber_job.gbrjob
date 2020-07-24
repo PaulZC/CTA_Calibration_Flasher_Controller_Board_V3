@@ -1,0 +1,20 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-24T11:15:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.386,
+        "LayerNumber": 6,
+        "Name": {
+            "ProjectId": "Flasher_Controller_Board"
+        },
+        "Owner": "Paul Clark <pc235603@gmail.com>"
+    }
+}
