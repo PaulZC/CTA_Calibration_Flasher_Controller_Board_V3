@@ -57,7 +57,7 @@ A 74HC1G125 acts as a buffer for the trigger signal. R29 provides current limiti
 The SAMD can also generate test pulses on physical pin 48. The TEST PULSE 0.1" jumper needs to be closed to couple the test pulses from the SAMD to the 74HC1G125 input.
 The SMA connector then becomes an output, allowing the test pulse to be monitored.
 
-![USB](../img/USB.JPG)
+![Trigger_Buffer](../img/Trigger_Buffer.JPG)
 
 ## USB Connector
 
@@ -68,7 +68,7 @@ The board can be configured and controlled through the USB connector if required
 The connector shield is connected to GND through R25 (0R) and can be isolated if required. Transzorbs provide protection for the data lines.
 D1 prevents 5V power from being back-fed to a PC if 5V power is also provided on the IO pins.
 
-![IO_Pins](../img/IO_Pins.JPG)
+![USB](../img/USB.JPG)
 
 ## LED Board Connector
 
